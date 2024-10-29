@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReviewManager.Api", "BookReviewManager.Api\BookReviewManager.Api.csproj", "{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReviewManager.Application", "BookReviewManager.Application\BookReviewManager.Application.csproj", "{D7CC50B0-73CB-40D6-8D59-6301E52F2186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReviewManager.Infrastructure", "BookReviewManager.Infrastructure\BookReviewManager.Infrastructure.csproj", "{ED2BD751-0AC5-4793-87F9-05292862D634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReviewManager.Domain", "BookReviewManager.Domain\BookReviewManager.Domain.csproj", "{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReviewManager.Extensions", "BookReviewManager.Extensions\BookReviewManager.Extensions.csproj", "{659A5B88-6108-4DFB-B2EA-4349F928A7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CC50B0-73CB-40D6-8D59-6301E52F2186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CC50B0-73CB-40D6-8D59-6301E52F2186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CC50B0-73CB-40D6-8D59-6301E52F2186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CC50B0-73CB-40D6-8D59-6301E52F2186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2BD751-0AC5-4793-87F9-05292862D634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2BD751-0AC5-4793-87F9-05292862D634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2BD751-0AC5-4793-87F9-05292862D634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2BD751-0AC5-4793-87F9-05292862D634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659A5B88-6108-4DFB-B2EA-4349F928A7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659A5B88-6108-4DFB-B2EA-4349F928A7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659A5B88-6108-4DFB-B2EA-4349F928A7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659A5B88-6108-4DFB-B2EA-4349F928A7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C43FDD63-2DD1-4AFF-A3B8-73EC6AC59F3B}
+	EndGlobalSection
+EndGlobal
