@@ -13,7 +13,9 @@ namespace BookReviewManager.Infrastructure.Configurations
     {
         public void Configure(EntityTypeBuilder<Assessment> builder)
         {
-            throw new NotImplementedException();
+            builder.Property(a => a.Description).HasMaxLength(200)
+                .IsRequired();
+            builder.Property(a => a.Nota).IsRequired();
         }
     }
 }
