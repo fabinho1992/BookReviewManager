@@ -10,3 +10,15 @@ C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewMa
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\refint\BookReviewManager.Application.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\BookReviewManager.Application.pdb
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\ref\BookReviewManager.Application.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\bin\Debug\net8.0\BookReviewManager.Application.deps.json
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\bin\Debug\net8.0\BookReviewManager.Application.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\bin\Debug\net8.0\BookReviewManager.Application.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\BookReviewManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\BookReviewManager.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\BookReviewManager.Application.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\BookReviewManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\BookReviewManager.Application.sourcelink.json
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\BookReviewManager.Application.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\refint\BookReviewManager.Application.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\BookReviewManager.Application.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\ref\BookReviewManager.Application.dll

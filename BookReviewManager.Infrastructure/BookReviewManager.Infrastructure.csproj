@@ -23,8 +23,4 @@
     <ProjectReference Include="..\BookReviewManager.Domain\BookReviewManager.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>

@@ -10,3 +10,15 @@ C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewMa
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\refint\BookReviewManager.Domain.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\BookReviewManager.Domain.pdb
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\ref\BookReviewManager.Domain.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\bin\Debug\net8.0\BookReviewManager.Domain.deps.json
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\bin\Debug\net8.0\BookReviewManager.Domain.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\bin\Debug\net8.0\BookReviewManager.Domain.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\BookReviewManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\BookReviewManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\BookReviewManager.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\BookReviewManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\BookReviewManager.Domain.sourcelink.json
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\BookReviewManager.Domain.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\refint\BookReviewManager.Domain.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\BookReviewManager.Domain.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Domain\obj\Debug\net8.0\ref\BookReviewManager.Domain.dll

@@ -10,9 +10,9 @@ namespace BookReviewManager.Domain.IRepositories
     public interface IBookRepository
     {
         Task CreateAsync(Book book);
-        Task<List<Book>> GetAllAsync();
+        Task<List<Book>> GetAllAsync(ParametrosPaginacao parametrosPaginacao);
         Task<Book> GetByIdAsync(int id);
-        Task Update(Book book);
+        void Update(Book book);
         Task Delete(Book book);
     }
 }
