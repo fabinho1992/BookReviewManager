@@ -40,7 +40,7 @@ namespace BookReviewManager.Infrastructure.Repositories
         public async Task<Book> GetByIdAsync(int id)
         {
             var book = await _context.Books.Include(b => b.Assessments)
-                .SingleOrDefaultAsync();
+                .SingleOrDefaultAsync(b => b.Id == id);
 
             return book;
         }

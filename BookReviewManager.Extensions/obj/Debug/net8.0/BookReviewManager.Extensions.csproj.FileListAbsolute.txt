@@ -34,3 +34,5 @@ C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Extensions\obj\Debug\net8.0\refint\BookReviewManager.Extensions.dll
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Extensions\obj\Debug\net8.0\BookReviewManager.Extensions.pdb
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Extensions\obj\Debug\net8.0\ref\BookReviewManager.Extensions.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Extensions\bin\Debug\net8.0\BookReviewManager.Application.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Extensions\bin\Debug\net8.0\BookReviewManager.Application.pdb

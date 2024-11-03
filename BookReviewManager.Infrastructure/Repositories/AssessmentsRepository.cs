@@ -19,14 +19,15 @@ namespace BookReviewManager.Infrastructure.Repositories
             _context = context;
         }
 
-        public async Task Create(Assessment assessment)
+        public async Task CreateAsync(Assessment assessment)
         {
             await _context.Assessments.AddAsync(assessment);
         }
 
-        public Task Delete(Assessment assessment)
+        public async Task Delete(Assessment assessment)
         {
-            throw new NotImplementedException();
+            var assessmentDelete = await GetByIdAsync(assessment.Id);
+            _context.Assessments.Remove(assessmentDelete);
         }
 
         public async Task<List<Assessment>> GetAllAsync(ParametrosPaginacao paginacao)
@@ -39,14 +40,17 @@ namespace BookReviewManager.Infrastructure.Repositories
         public async Task<Assessment> GetByIdAsync(int id)
         {
             var assessment = await _context.Assessments.Include(a => a.User)
-                .Include(a => a.Book).SingleOrDefaultAsync();
+                .Include(a => a.Book).SingleOrDefaultAsync(a => a.Id == id);
 
             return assessment;
         }
 
-        public Task<Assessment> GetOfUserAsync(int id)
+        public async Task<Assessment> GetOfUserAsync(int id)
         {
-            var assessmentUser = _context.Assessments.Include(a => a.User)
+            var assessmentUser = await _context.Assessments
+                .SingleOrDefaultAsync(a => a.User.Id == id);
+
+            return assessmentUser;
         }
     }
 }

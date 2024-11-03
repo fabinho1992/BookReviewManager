@@ -9,8 +9,8 @@ namespace BookReviewManager.Domain.IRepositories
 {
     public interface IAssessmentRepository
     {
-        Task Create(Assessment assessment);
-        Task<List<Assessment>> GetAllAsync();
+        Task CreateAsync(Assessment assessment);
+        Task<List<Assessment>> GetAllAsync(ParametrosPaginacao parametrosPaginacao);
         Task<Assessment> GetOfUserAsync(int id);
         Task<Assessment> GetByIdAsync(int id);
         Task Delete(Assessment assessment);

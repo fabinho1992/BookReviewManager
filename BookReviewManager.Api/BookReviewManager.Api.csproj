@@ -16,12 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\BookReviewManager.Application\BookReviewManager.Application.csproj" />
     <ProjectReference Include="..\BookReviewManager.Extensions\BookReviewManager.Extensions.csproj" />
+    <ProjectReference Include="..\BookReviewManager.Infrastructure\BookReviewManager.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

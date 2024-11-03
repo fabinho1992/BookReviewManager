@@ -300,3 +300,18 @@ C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Api\obj\Debug\net8.0\BookReviewManager.Api.pdb
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Api\obj\Debug\net8.0\BookReviewManager.Api.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Api\obj\Debug\net8.0\ref\BookReviewManager.Api.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Google.Apis.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Google.Apis.Books.v1.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\System.Management.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\MediatR.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\MediatR.Contracts.dll
