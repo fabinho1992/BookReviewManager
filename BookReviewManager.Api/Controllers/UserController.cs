@@ -8,6 +8,9 @@ using System.Drawing;
 using System;
 using BookReviewManager.Application.Queries.UserQueries.UserQueriesById;
 using BookReviewManager.Application.Queries.UserQueries.UserQuerieList;
+using BookReviewManager.Application.Commands.CommandsUser.UpadateUser;
+using BookReviewManager.Application.Dtos.ViewModels.UserViewsModel;
+using BookReviewManager.Application.Commands.CommandsUser.DeleteUser;
 
 namespace BookReviewManager.Api.Controllers
 {
@@ -56,6 +59,9 @@ namespace BookReviewManager.Api.Controllers
             
         }
 
+        [ProducesResponseType(typeof(UserResponse), StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status200OK)]
         [HttpGet("{id:int}")]
         public async Task<IActionResult> GetById(int id)
         {
@@ -68,6 +74,39 @@ namespace BookReviewManager.Api.Controllers
             }
 
             return Ok(result);
+        }
+
+
+        [HttpPut]
+        public async Task<IActionResult> Update(UserUpdateCommand updateCommand)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var result = await _mediator.Send(updateCommand);
+
+            if (!result.IsSuccess)
+            {
+                return BadRequest(result.Message);
+            }
+
+            return NoContent();
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var query = new UserDeleteCommand(id);
+            var result = await _mediator.Send(query);
+
+            if (!result.IsSuccess) 
+            {
+                return BadRequest(result.Message);
+            }
+
+            return NoContent();
         }
     }
 }

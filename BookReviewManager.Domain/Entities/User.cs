@@ -22,7 +22,7 @@ namespace BookReviewManager.Domain.Entities
         public void Update(string name, string email)
         {
             Name = name;
-            Email = email;
+            Email = email;                 
         }
     }
 

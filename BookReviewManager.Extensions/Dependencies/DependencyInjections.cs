@@ -50,7 +50,6 @@ namespace BookReviewManager.Extensions.Dependencies
             services.AddScoped<IGoogleBookApi, GoogleBookApi>();
 
             //Fluent Validation
-            //fluentvalidation
             services.AddFluentValidationAutoValidation()
                 .AddValidatorsFromAssemblyContaining<CreateUserValidation>();
 

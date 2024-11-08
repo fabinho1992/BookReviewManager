@@ -1,5 +1,9 @@
-﻿using BookReviewManager.Domain.Entities;
+﻿using BookReviewManager.Application.Commands.CommandsBook.CreateBook;
+using BookReviewManager.Application.Commands.CommandsBook.DeleteBook;
+using BookReviewManager.Application.Commands.CommandsBook.UpdateBook;
+using BookReviewManager.Domain.Entities;
 using BookReviewManager.Domain.IRepositories;
+using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,20 +13,61 @@ namespace BookReviewManager.Api.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
-        private readonly IUnitOfWork _unitOfWork;
+        private readonly IMediator _mediator;
 
-        public BookController(IUnitOfWork unitOfWork)
+        public BookController(IMediator mediator)
         {
-            _unitOfWork = unitOfWork;
+            _mediator = mediator;
         }
 
+
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status200OK)]
         [HttpPost]
-        public async Task<IActionResult> Create(Book book)
+        public async Task<IActionResult> Create(BookCreateCommand command)
         {
-            await _unitOfWork.BookRepository.CreateAsync(book);
-            await _unitOfWork.Commit();
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var result = await _mediator.Send(command);
+            if (!result.IsSuccess)
+            {
+                return BadRequest(result.Message);
+            }
 
             return Ok();
+        }
+
+        [HttpPut] 
+        public async Task<IActionResult> Update(BookUpdateCommand command)
+        {
+            if (!ModelState.IsValid) 
+            {
+                return BadRequest(ModelState);
+            }
+
+            var result = await _mediator.Send(command);
+            if (!result.IsSuccess) 
+            {
+                return BadRequest(result.Message);
+            }
+
+            return NoContent();
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var book = new BookDeleteCommand(id);
+            var result = await _mediator.Send(book);
+            if (!result.IsSuccess)
+            {
+                BadRequest(result.Message);
+            }
+
+            return NoContent();
         }
     }
 }

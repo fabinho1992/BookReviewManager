@@ -32,6 +32,17 @@ namespace BookReviewManager.Domain.Entities
         public int NumberPages { get; private set; }
         public List<Assessment> Assessments { get; private set; } = new List<Assessment>();
 
-
+        public void Update(string title, string description, string author, string iSBN,
+            string publisher, GenerBook generBook, int yearPublication, int numberPages)
+        {
+            Title = title;
+            Description= description;   
+            Author = author;
+            ISBN = iSBN;
+            Publisher = publisher;
+            GenerBook = generBook;
+            YearPublication = yearPublication;
+            NumberPages = numberPages;
+        }
     }
 }
