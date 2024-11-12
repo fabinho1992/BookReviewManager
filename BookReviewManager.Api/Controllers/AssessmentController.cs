@@ -1,5 +1,7 @@
-﻿using BookReviewManager.Domain.Entities;
+﻿using BookReviewManager.Application.Commands.CommandAssessment.CreateAssessment;
+using BookReviewManager.Domain.Entities;
 using BookReviewManager.Domain.IRepositories;
+using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,19 +12,28 @@ namespace BookReviewManager.Api.Controllers
     public class AssessmentController : ControllerBase
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IMediator _mediator;
 
-        public AssessmentController(IUnitOfWork unitOfWork)
+        public AssessmentController(IUnitOfWork unitOfWork, IMediator mediator)
         {
             _unitOfWork = unitOfWork;
+            _mediator = mediator;
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(Assessment assessment)
+        public async Task<IActionResult> Create(AssessmentCreateCommand command)
         {
-            await _unitOfWork.AssessmentRepository.CreateAsync(assessment);
-            await _unitOfWork.Commit();
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            var result = await _mediator.Send(command);
+            if (!result.IsSuccess)
+            {
+                return BadRequest(result.Message);
+            }
 
-            return Ok();
+            return Ok(result);
         }
 
         [HttpGet("{id}")]

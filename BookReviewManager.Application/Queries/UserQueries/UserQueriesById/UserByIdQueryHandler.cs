@@ -32,7 +32,7 @@ namespace BookReviewManager.Application.Queries.UserQueries.UserQueriesById
             var listAssessment = new List<AssessmentResponseToUser>();
             foreach (var item in user.Assessments)
             {
-                var assessment = new AssessmentResponseToUser(item.Nota, item.Description, item.AssessmentDate.ToString("d"));
+                var assessment = new AssessmentResponseToUser(item.Nota, item.Description, item.AssessmentDate.ToString("d"), item.Book.Title);
                 listAssessment.Add(assessment);
             }
 

@@ -1,6 +1,8 @@
 ﻿using BookReviewManager.Application.Commands.CommandsBook.CreateBook;
 using BookReviewManager.Application.Commands.CommandsBook.DeleteBook;
 using BookReviewManager.Application.Commands.CommandsBook.UpdateBook;
+using BookReviewManager.Application.Queries.BookQueries.BookQuerieById;
+using BookReviewManager.Application.Queries.BookQueries.BookQuerieList;
 using BookReviewManager.Domain.Entities;
 using BookReviewManager.Domain.IRepositories;
 using MediatR;
@@ -37,7 +39,35 @@ namespace BookReviewManager.Api.Controllers
                 return BadRequest(result.Message);
             }
 
-            return Ok();
+            return CreatedAtAction(nameof(GetById), new { id = result.Data }, result);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAll([FromQuery] ParametrosPaginacao paginacao)
+        {
+            var query = new BookListQuery(paginacao.PageNumber, paginacao.PageSize);
+            var result = await _mediator.Send(query);
+            if (!result.IsSuccess)
+            {
+                return BadRequest(result.Message);
+            }
+
+            return Ok(result);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
+        {
+            var query = new BookByIdQuery(id);
+            var result = await _mediator.Send(query);
+
+            if (!result.IsSuccess)
+            {
+                return NotFound(result.Message);
+            }
+
+            return Ok(result);
+            
         }
 
         [HttpPut] 

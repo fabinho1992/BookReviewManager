@@ -45,12 +45,13 @@ namespace BookReviewManager.Infrastructure.Repositories
             return assessment;
         }
 
-        public async Task<Assessment> GetOfUserAsync(int id)
+        public async Task<List<Assessment>> GetOfUserAsync(int id)
         {
-            var assessmentUser = await _context.Assessments
-                .SingleOrDefaultAsync(a => a.User.Id == id);
+            return await _context.Assessments
+            .Where(a => a.User.Id == id)
+            .ToListAsync();
 
-            return assessmentUser;
+            
         }
     }
 }

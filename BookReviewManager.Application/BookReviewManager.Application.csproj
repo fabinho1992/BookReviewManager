@@ -16,8 +16,4 @@
     <ProjectReference Include="..\BookReviewManager.Infrastructure\BookReviewManager.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Queries\BookQueries\NovaPasta\" />
-  </ItemGroup>
-
 </Project>

@@ -8,5 +8,6 @@ namespace BookReviewManager.Application.Dtos.ViewModels.AssessmentViewsModel
 {
     public class AssessmentResponse
     {
+
     }
 }
