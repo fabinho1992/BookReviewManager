@@ -48,9 +48,10 @@ namespace BookReviewManager.Infrastructure.Repositories
 
         public async Task<List<Assessment>> GetOfUserAsync(int id)
         {
-            return await _context.Assessments
-            .Where(a => a.User.Id == id)
-            .ToListAsync();
+            return await _context.Assessments.Include(a => a.User)
+                .Include(a => a.Book)
+                .Where(a => a.User.Id == id)
+                .ToListAsync();
 
             
         }

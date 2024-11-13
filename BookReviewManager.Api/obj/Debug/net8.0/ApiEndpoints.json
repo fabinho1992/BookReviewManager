@@ -74,6 +74,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BookReviewManager.Api.Controllers.AssessmentController",
+    "Method": "GetByUser",
+    "RelativePath": "api/Assessment/ByUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BookReviewManager.Api.Controllers.BookController",
     "Method": "Create",
     "RelativePath": "api/Book",

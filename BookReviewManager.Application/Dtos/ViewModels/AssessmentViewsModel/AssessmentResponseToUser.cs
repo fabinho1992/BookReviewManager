@@ -8,12 +8,12 @@ namespace BookReviewManager.Application.Dtos.ViewModels.AssessmentViewsModel
 {
     public class AssessmentResponseToUser
     {
-        public AssessmentResponseToUser(int nota, string description, string assessmentDate, string nameBook)
+        public AssessmentResponseToUser(int nota, string description, string assessmentDate, string titleBook)
         {
             Nota = nota;
             Description = description;
             AssessmentDate = assessmentDate;
-            TitleBook = nameBook;
+            TitleBook = titleBook;
         }
 
         public int Nota { get; private set; }

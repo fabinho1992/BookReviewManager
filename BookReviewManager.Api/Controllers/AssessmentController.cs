@@ -1,5 +1,6 @@
 ﻿using BookReviewManager.Application.Commands.CommandAssessment.CreateAssessment;
 using BookReviewManager.Application.Queries.AssessmentQueries.AssessmentQuerieById;
+using BookReviewManager.Application.Queries.AssessmentQueries.AssessmentQuerieByUser;
 using BookReviewManager.Application.Queries.AssessmentQueries.AssessmentQuerieList;
 using BookReviewManager.Domain.Entities;
 using BookReviewManager.Domain.IRepositories;
@@ -57,6 +58,19 @@ namespace BookReviewManager.Api.Controllers
             var result = await _mediator.Send(query);
 
             if (!result.IsSuccess)
+            {
+                return BadRequest(result.Message);
+            }
+
+            return Ok(result);
+        }
+
+        [HttpGet("ByUser")]
+        public async Task<IActionResult> GetByUser(int id)
+        {
+            var query = new AssessmentByUserQuery(id);
+            var result = await _mediator.Send(query);
+            if (!result.IsSuccess) 
             {
                 return BadRequest(result.Message);
             }
