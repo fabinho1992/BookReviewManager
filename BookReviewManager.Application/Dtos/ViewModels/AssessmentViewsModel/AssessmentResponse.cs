@@ -9,7 +9,7 @@ namespace BookReviewManager.Application.Dtos.ViewModels.AssessmentViewsModel
 {
     public class AssessmentResponse
     {
-        public AssessmentResponse(int nota, string description, string nameUser, int titleBook, string assessmentDate)
+        public AssessmentResponse(int nota, string description, string nameUser, string titleBook, string assessmentDate)
         {
             Nota = nota;
             Description = description;
@@ -21,7 +21,7 @@ namespace BookReviewManager.Application.Dtos.ViewModels.AssessmentViewsModel
         public int Nota { get; private set; }
         public string Description { get; set; }
         public string NameUser { get; private set; }
-        public int TitleBook { get; private set; }
+        public string TitleBook { get; private set; }
         public string AssessmentDate { get; private set; }
     }
 }

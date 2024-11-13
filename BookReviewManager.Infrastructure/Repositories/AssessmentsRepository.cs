@@ -32,7 +32,8 @@ namespace BookReviewManager.Infrastructure.Repositories
 
         public async Task<List<Assessment>> GetAllAsync(ParametrosPaginacao paginacao)
         {
-            return await _context.Assessments.AsNoTracking().OrderBy(a => a.Id)
+            return await _context.Assessments.Include(a => a.User).Include(a => a.Book)
+                .OrderBy(a => a.Id)
                 .Skip((paginacao.PageNumber - 1) * paginacao.PageSize)
                 .Take(paginacao.PageSize).ToListAsync();
         }

@@ -1,4 +1,6 @@
 ﻿using BookReviewManager.Application.Commands.CommandAssessment.CreateAssessment;
+using BookReviewManager.Application.Queries.AssessmentQueries.AssessmentQuerieById;
+using BookReviewManager.Application.Queries.AssessmentQueries.AssessmentQuerieList;
 using BookReviewManager.Domain.Entities;
 using BookReviewManager.Domain.IRepositories;
 using MediatR;
@@ -11,12 +13,11 @@ namespace BookReviewManager.Api.Controllers
     [ApiController]
     public class AssessmentController : ControllerBase
     {
-        private readonly IUnitOfWork _unitOfWork;
+
         private readonly IMediator _mediator;
 
-        public AssessmentController(IUnitOfWork unitOfWork, IMediator mediator)
+        public AssessmentController(IMediator mediator)
         {
-            _unitOfWork = unitOfWork;
             _mediator = mediator;
         }
 
@@ -39,9 +40,28 @@ namespace BookReviewManager.Api.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetUser(int id)
         {
-            var assessmentUser = await _unitOfWork.AssessmentRepository.GetOfUserAsync(id);
+            var query = new AssessmentByIdQuery(id);
+            var result = await _mediator.Send(query);
+            if (!result.IsSuccess) 
+            {
+                return BadRequest(result.Message);
+            }
 
-            return Ok(assessmentUser);
+            return Ok(result);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAll([FromQuery]ParametrosPaginacao paginacao)
+        {
+            var query = new AssessmentListQuery(paginacao.PageNumber, paginacao.PageSize);
+            var result = await _mediator.Send(query);
+
+            if (!result.IsSuccess)
+            {
+                return BadRequest(result.Message);
+            }
+
+            return Ok(result);
         }
     }
 }
