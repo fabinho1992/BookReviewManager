@@ -44,7 +44,7 @@ namespace BookReviewManager.Extensions.Dependencies
             services.AddScoped<IBookRepository, BookRepository>();
             services.AddScoped<IAssessmentRepository, AssessmentsRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
-            
+
             services.Configure<KeyGoogloBooks>(configuration.GetSection("KeyGoogleBooksApi"));
             services.AddSingleton<string>(configuration["KeyGoogleBooksApi:KeyApi"]);
             services.AddScoped<IGoogleBookApi, GoogleBookApi>();

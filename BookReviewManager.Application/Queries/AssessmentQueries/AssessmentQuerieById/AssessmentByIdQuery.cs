@@ -11,5 +11,11 @@ namespace BookReviewManager.Application.Queries.AssessmentQueries.AssessmentQuer
 {
     public class AssessmentByIdQuery : IRequest<ResultViewModel<AssessmentResponse>>
     {
+        public AssessmentByIdQuery(int id)
+        {
+            Id = id;
+        }
+
+        public int Id { get; private set; }
     }
 }
