@@ -9,7 +9,7 @@ namespace BookReviewManager.Domain.Entities
 {
     public class Book : Base
     {
-        public Book(string title, string description, string author, string iSBN, 
+        public Book(string title, string description, string author, string iSBN,
             string publisher, GenerBook generBook, int yearPublication, int numberPages)
         {
             Title = title;
@@ -20,6 +20,7 @@ namespace BookReviewManager.Domain.Entities
             GenerBook = generBook;
             YearPublication = yearPublication;
             NumberPages = numberPages;
+            
         }
 
         public string Title { get; private set; }
@@ -30,6 +31,9 @@ namespace BookReviewManager.Domain.Entities
         public GenerBook GenerBook { get; private set; }
         public int YearPublication { get; private set; }
         public int NumberPages { get; private set; }
+        public decimal MedianaNota { get; private set; }
+        public byte[] Cover { get; private set; }
+        
         public List<Assessment> Assessments { get; private set; } = new List<Assessment>();
 
         public void Update(string title, string description, string author, string iSBN,
@@ -44,5 +48,20 @@ namespace BookReviewManager.Domain.Entities
             YearPublication = yearPublication;
             NumberPages = numberPages;
         }
+
+
+        // Método para calcular a média da nota
+        public void CalcularMedianaNota()
+        {
+            if (Assessments.Count == 0)
+            {
+                MedianaNota = 0; // Ou outro valor padrão
+            }
+            else
+            {
+                MedianaNota = Math.Round((decimal)Assessments.Average(r => r.Nota), 2);
+            }
+        }
+
     }
 }

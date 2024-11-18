@@ -29,8 +29,11 @@ namespace BookReviewManager.Infrastructure.Configurations
                 .IsRequired();
             builder.Property(b => b.Description).HasMaxLength(200)
                 .IsRequired();
+            builder.Property(b => b.MedianaNota)
+                .HasColumnType("decimal(18,2)");
             builder.Property(b => b.GenerBook).HasConversion<string>()
                 .IsRequired();
+            builder.Property(b => b.Cover);
             builder.Property(b => b.YearPublication)
                 .IsRequired();
             builder.HasMany(b => b.Assessments)

@@ -24,6 +24,12 @@ namespace BookReviewManager.Application.Commands.CommandAssessment.CreateAssessm
             var assessment = new Assessment(request.Nota, request.Description, request.UserId, request.BookId);
 
             await _unitOfWork.AssessmentRepository.CreateAsync(assessment);
+            // Obter o livro associado à avaliação
+            var book = await _unitOfWork.BookRepository.GetByIdAsync(assessment.BookId);
+
+            book.CalcularMedianaNota();
+
+
             await _unitOfWork.Commit();
 
             return ResultViewModel<int>.Success(assessment.Id);

@@ -11,8 +11,8 @@ namespace BookReviewManager.Application.Dtos.ViewModels.BookViewsModel
 {
     public class BookResponse
     {
-        public BookResponse(string title, string description, string author, string iSBN, 
-            string publisher, GenerBook generBook, int yearPublication, int numberPages, List<AssessmentResponseToBook> assessments)
+        public BookResponse(string title, string description, string author, string iSBN, string publisher,
+            GenerBook generBook, int yearPublication, int numberPages, decimal mediaNote, List<AssessmentResponseToBook> assessments)
         {
             Title = title;
             Description = description;
@@ -22,6 +22,7 @@ namespace BookReviewManager.Application.Dtos.ViewModels.BookViewsModel
             GenerBook = generBook;
             YearPublication = yearPublication;
             NumberPages = numberPages;
+            MediaNote = mediaNote;
             Assessments = assessments;
         }
 
@@ -33,6 +34,7 @@ namespace BookReviewManager.Application.Dtos.ViewModels.BookViewsModel
         public GenerBook GenerBook { get; private set; }
         public int YearPublication { get; private set; }
         public int NumberPages { get; private set; }
+        public decimal MediaNote { get; private set; }
         public List<AssessmentResponseToBook> Assessments { get; private set; } = new List<AssessmentResponseToBook>();
     }
 }

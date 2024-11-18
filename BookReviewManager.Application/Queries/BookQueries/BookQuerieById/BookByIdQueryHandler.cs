@@ -38,7 +38,7 @@ namespace BookReviewManager.Application.Queries.BookQueries.BookQuerieById
             }
 
             var bookResponse = new BookResponse(book.Title, book.Description, book.Author, book.ISBN, 
-                book.Publisher, book.GenerBook, book.YearPublication, book.NumberPages, assessment);
+                book.Publisher, book.GenerBook, book.YearPublication, book.NumberPages, book.MedianaNota, assessment);
 
             return ResultViewModel<BookResponse>.Success(bookResponse);
         }
