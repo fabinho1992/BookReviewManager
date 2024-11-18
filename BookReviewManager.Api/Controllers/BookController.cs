@@ -1,4 +1,5 @@
-﻿using BookReviewManager.Application.Commands.CommandsBook.CreateBook;
+﻿using BookReviewManager.Application.Commands.CommandsBook.CoverBook;
+using BookReviewManager.Application.Commands.CommandsBook.CreateBook;
 using BookReviewManager.Application.Commands.CommandsBook.DeleteBook;
 using BookReviewManager.Application.Commands.CommandsBook.UpdateBook;
 using BookReviewManager.Application.Queries.BookQueries.BookQuerieById;
@@ -80,6 +81,20 @@ namespace BookReviewManager.Api.Controllers
 
             var result = await _mediator.Send(command);
             if (!result.IsSuccess) 
+            {
+                return BadRequest(result.Message);
+            }
+
+            return NoContent();
+        }
+
+        [HttpPut("cover")]
+        public async Task<IActionResult> DownloadCover(int id , IFormFile file)
+        {
+            var command = new CoverBookCommand(id, file);
+
+            var result = await _mediator.Send(command);
+            if (!result.IsSuccess)
             {
                 return BadRequest(result.Message);
             }

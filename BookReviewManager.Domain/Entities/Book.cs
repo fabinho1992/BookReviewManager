@@ -63,5 +63,10 @@ namespace BookReviewManager.Domain.Entities
             }
         }
 
+        public void AddCover(byte[] cover)
+        {
+            Cover = cover;
+        }
+
     }
 }

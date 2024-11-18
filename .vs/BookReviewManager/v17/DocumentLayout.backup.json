@@ -1,130 +1,141 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|solutionrelative:bookreviewmanager.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsbook\\coverbook\\coverbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsbook\\coverbook\\coverbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsbook\\createbook\\bookcreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsbook\\createbook\\bookcreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.infrastructure\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\queries\\bookqueries\\bookqueriebyid\\bookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\bookqueries\\bookqueriebyid\\bookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyid\\assessmentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyid\\assessmentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyid\\assessmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyid\\assessmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\bookviewsmodel\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\dtos\\viewmodels\\bookviewsmodel\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandassessment\\createassessment\\assessmentcreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandassessment\\createassessment\\assessmentcreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.infrastructure\\repositories\\assessmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\repositories\\assessmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010632_Medianote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookReviewManager.Infrastructure\\Migrations\\20241114010632_Medianote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.infrastructure\\configurations\\assessmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\configurations\\assessmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyuser\\assessmentbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyuser\\assessmentbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.api\\controllers\\assessmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|solutionrelative:bookreviewmanager.api\\controllers\\assessmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponsetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponsetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyuser\\assessmentbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyuser\\assessmentbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentquerielist\\assessmentlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentquerielist\\assessmentlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\queries\\userqueries\\userqueriesbyid\\userbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\userqueries\\userqueriesbyid\\userbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|solutionrelative:bookreviewmanager.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentquerielist\\assessmentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsbook\\coverbook\\coverbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsbook\\coverbook\\coverbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.api\\controllers\\assessmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|solutionrelative:bookreviewmanager.api\\controllers\\assessmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsbook\\createbook\\bookcreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsbook\\createbook\\bookcreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.domain\\irepositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|solutionrelative:bookreviewmanager.domain\\irepositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.domain\\irepositories\\iassessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|solutionrelative:bookreviewmanager.domain\\irepositories\\iassessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|solutionrelative:bookreviewmanager.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.infrastructure\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\queries\\bookqueries\\bookqueriebyid\\bookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\bookqueries\\bookqueriebyid\\bookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyid\\assessmentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyid\\assessmentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyid\\assessmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyid\\assessmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\bookviewsmodel\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\dtos\\viewmodels\\bookviewsmodel\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandassessment\\createassessment\\assessmentcreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandassessment\\createassessment\\assessmentcreatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.infrastructure\\repositories\\assessmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\repositories\\assessmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.infrastructure\\configurations\\assessmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\configurations\\assessmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyuser\\assessmentbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyuser\\assessmentbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponsetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponsetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyuser\\assessmentbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentqueriebyuser\\assessmentbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentquerielist\\assessmentlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentquerielist\\assessmentlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\queries\\userqueries\\userqueriesbyid\\userbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\userqueries\\userqueriesbyid\\userbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\queries\\assessmentqueries\\assessmentquerielist\\assessmentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\queries\\assessmentqueries\\assessmentquerielist\\assessmentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponseall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponseall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponseall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponsetobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponsetobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\dtos\\viewmodels\\assessmentviewsmodel\\assessmentresponsetobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.domain\\errors\\assessmenterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.domain\\errors\\assessmenterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|solutionrelative:bookreviewmanager.domain\\errors\\assessmenterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{659A5B88-6108-4DFB-B2EA-4349F928A7BC}|BookReviewManager.Extensions\\BookReviewManager.Extensions.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.extensions\\dependencies\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{659A5B88-6108-4DFB-B2EA-4349F928A7BC}|BookReviewManager.Extensions\\BookReviewManager.Extensions.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.extensions\\dependencies\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{659A5B88-6108-4DFB-B2EA-4349F928A7BC}|BookReviewManager.Extensions\\BookReviewManager.Extensions.csproj|solutionrelative:bookreviewmanager.extensions\\dependencies\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\userviewsmodel\\userresponseall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\dtos\\viewmodels\\userviewsmodel\\userresponseall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\dtos\\viewmodels\\userviewsmodel\\userresponseall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\fluentvalidation\\assessmentvalidation\\createassessmentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\fluentvalidation\\assessmentvalidation\\createassessmentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\fluentvalidation\\assessmentvalidation\\createassessmentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandassessment\\createassessment\\assessmentcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandassessment\\createassessment\\assessmentcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandassessment\\createassessment\\assessmentcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.domain\\irepositories\\iassessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|solutionrelative:bookreviewmanager.domain\\irepositories\\iassessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\projetosmentoria\\gerenciamento_avaliacao_livros\\bookreviewmanager\\bookreviewmanager.infrastructure\\migrations\\20241114010632_medianote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\migrations\\20241114010632_medianote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,184 +145,251 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CoverBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsBook\\CoverBook\\CoverBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsBook\\CoverBook\\CoverBookCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsBook\\CoverBook\\CoverBookCommandHandler.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsBook\\CoverBook\\CoverBookCommandHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:33:05.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoverBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsBook\\CoverBook\\CoverBookCommand.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsBook\\CoverBook\\CoverBookCommand.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsBook\\CoverBook\\CoverBookCommand.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsBook\\CoverBook\\CoverBookCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:26:44.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BookCreateCommandHandler.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsBook\\CreateBook\\BookCreateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsBook\\CreateBook\\BookCreateCommandHandler.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsBook\\CreateBook\\BookCreateCommandHandler.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsBook\\CreateBook\\BookCreateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsBook\\CreateBook\\BookCreateCommandHandler.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsBook\\CreateBook\\BookCreateCommandHandler.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAApwBcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T00:43:20.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookConfiguration.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Configurations\\BookConfiguration.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Configurations\\BookConfiguration.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Configurations\\BookConfiguration.cs",
-              "RelativeToolTip": "BookReviewManager.Infrastructure\\Configurations\\BookConfiguration.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAD4vyQAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AssessmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\AssessmentController.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Api\\Controllers\\AssessmentController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\AssessmentController.cs",
+              "RelativeToolTip": "BookReviewManager.Api\\Controllers\\AssessmentController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T00:24:37.224Z",
+              "WhenOpened": "2024-11-12T09:19:37.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Api\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookReviewManager.Api\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:22:06.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\IRepositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Domain\\IRepositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\IRepositories\\IBookRepository.cs",
+              "RelativeToolTip": "BookReviewManager.Domain\\IRepositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:23:34.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAssessmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
+              "RelativeToolTip": "BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:32:59.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\Entities\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Domain\\Entities\\Book.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\Entities\\Book.cs",
               "RelativeToolTip": "BookReviewManager.Domain\\Entities\\Book.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T00:22:37.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AssessmentByIdQuery.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQuery.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQuery.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQuery.cs",
-              "RelativeToolTip": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQuery.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBIAAAArAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Configurations\\BookConfiguration.cs",
+              "RelativeToolTip": "BookReviewManager.Infrastructure\\Configurations\\BookConfiguration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vyQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:40:01.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AssessmentByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQueryHandler.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQueryHandler.cs",
-              "RelativeToolTip": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQueryHandler.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwBgAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T11:24:58.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookResponse.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\BookViewsModel\\BookResponse.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Application\\Dtos\\ViewModels\\BookViewsModel\\BookResponse.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\BookViewsModel\\BookResponse.cs",
-              "RelativeToolTip": "BookReviewManager.Application\\Dtos\\ViewModels\\BookViewsModel\\BookResponse.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwBgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:51:46.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\BookQueries\\BookQuerieById\\BookByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\BookQueries\\BookQuerieById\\BookByIdQueryHandler.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\BookQueries\\BookQuerieById\\BookByIdQueryHandler.cs",
-              "RelativeToolTip": "BookReviewManager.Application\\Queries\\BookQueries\\BookQuerieById\\BookByIdQueryHandler.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:47:12.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "BookReviewManager.Infrastructure\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCkAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:48:40.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T00:24:37.224Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "AssessmentConfiguration.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Configurations\\AssessmentConfiguration.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Configurations\\AssessmentConfiguration.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Configurations\\AssessmentConfiguration.cs",
-              "RelativeToolTip": "BookReviewManager.Infrastructure\\Configurations\\AssessmentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Title": "AssessmentByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQuery.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQuery.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQuery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T00:50:18.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T09:40:01.476Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "20241114010427_Medianote.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs",
-              "RelativeToolTip": "BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "AssessmentByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQueryHandler.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieById\\AssessmentByIdQueryHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBgAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T01:04:27.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20241114010632_Medianote.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010632_Medianote.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Migrations\\20241114010632_Medianote.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010632_Medianote.cs",
-              "RelativeToolTip": "BookReviewManager.Infrastructure\\Migrations\\20241114010632_Medianote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T01:06:32.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AssessmentCreateCommandHandler.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommandHandler.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommandHandler.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommandHandler.cs",
-              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommandHandler.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwBsAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T01:16:38.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AssessmentsRepository.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
-              "RelativeToolTip": "BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:29:39.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T11:24:58.842Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "BookResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\BookViewsModel\\BookResponse.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Dtos\\ViewModels\\BookViewsModel\\BookResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\BookViewsModel\\BookResponse.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Dtos\\ViewModels\\BookViewsModel\\BookResponse.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:51:46.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\BookQueries\\BookQuerieById\\BookByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\BookQueries\\BookQuerieById\\BookByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\BookQueries\\BookQuerieById\\BookByIdQueryHandler.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Queries\\BookQueries\\BookQuerieById\\BookByIdQueryHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:47:12.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookReviewManager.Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:48:40.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssessmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Configurations\\AssessmentConfiguration.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Configurations\\AssessmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Configurations\\AssessmentConfiguration.cs",
+              "RelativeToolTip": "BookReviewManager.Infrastructure\\Configurations\\AssessmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:50:18.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241114010427_Medianote.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010427_Medianote.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:04:27.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241114010632_Medianote.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010632_Medianote.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Migrations\\20241114010632_Medianote.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Migrations\\20241114010632_Medianote.cs",
+              "RelativeToolTip": "BookReviewManager.Infrastructure\\Migrations\\20241114010632_Medianote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:06:32.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssessmentCreateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommandHandler.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommandHandler.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:16:38.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssessmentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
+              "RelativeToolTip": "BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:29:39.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "AssessmentByUserQueryHandler.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQueryHandler.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQueryHandler.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQueryHandler.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQueryHandler.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAcwCYAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +397,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "AssessmentByUserQuery.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQuery.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQuery.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQuery.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQuery.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieByUser\\AssessmentByUserQuery.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwAsAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,11 +409,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "AssessmentResponseToUser.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToUser.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToUser.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToUser.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToUser.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToUser.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToUser.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -343,35 +421,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AssessmentController.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\AssessmentController.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Api\\Controllers\\AssessmentController.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\AssessmentController.cs",
-              "RelativeToolTip": "BookReviewManager.Api\\Controllers\\AssessmentController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEcAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:19:37.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Api\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\BookController.cs",
-              "RelativeToolTip": "BookReviewManager.Api\\Controllers\\BookController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:22:06.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "AssessmentListQueryHandler.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQueryHandler.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQueryHandler.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQueryHandler.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQueryHandler.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAArwCEAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -379,11 +433,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "UserByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\UserQueries\\UserQueriesById\\UserByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\UserQueries\\UserQueriesById\\UserByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\UserQueries\\UserQueriesById\\UserByIdQueryHandler.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\UserQueries\\UserQueriesById\\UserByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\UserQueries\\UserQueriesById\\UserByIdQueryHandler.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Queries\\UserQueries\\UserQueriesById\\UserByIdQueryHandler.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,11 +445,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "AssessmentError.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\Errors\\AssessmentError.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\Errors\\AssessmentError.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Domain\\Errors\\AssessmentError.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\Errors\\AssessmentError.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\Errors\\AssessmentError.cs",
               "RelativeToolTip": "BookReviewManager.Domain\\Errors\\AssessmentError.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,11 +457,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "AssessmentResponseAll.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseAll.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseAll.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseAll.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseAll.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseAll.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseAll.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -415,11 +469,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "AssessmentListQuery.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQuery.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQuery.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQuery.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQuery.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Queries\\AssessmentQueries\\AssessmentQuerieList\\AssessmentListQuery.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -427,11 +481,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "AssessmentResponse.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponse.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponse.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponse.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponse.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA0wBQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -439,11 +493,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "AssessmentResponseToBook.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToBook.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToBook.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToBook.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToBook.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToBook.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Dtos\\ViewModels\\AssessmentViewsModel\\AssessmentResponseToBook.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -451,11 +505,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "BookReviewManager.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -463,11 +517,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "DependencyInjections.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
               "RelativeToolTip": "BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAAADAAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -475,11 +529,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "UserResponseAll.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\UserViewsModel\\UserResponseAll.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\UserViewsModel\\UserResponseAll.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Dtos\\ViewModels\\UserViewsModel\\UserResponseAll.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\UserViewsModel\\UserResponseAll.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Dtos\\ViewModels\\UserViewsModel\\UserResponseAll.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Dtos\\ViewModels\\UserViewsModel\\UserResponseAll.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAmwBUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -487,23 +541,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IAssessmentRepository.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
-              "RelativeToolTip": "BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:32:59.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "AssessmentCreateCommand.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommand.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommand.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommand.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommand.cs",
               "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandAssessment\\CreateAssessment\\AssessmentCreateCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -511,11 +553,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "CreateAssessmentValidation.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\FluentValidation\\AssessmentValidation\\CreateAssessmentValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\FluentValidation\\AssessmentValidation\\CreateAssessmentValidation.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\FluentValidation\\AssessmentValidation\\CreateAssessmentValidation.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\FluentValidation\\AssessmentValidation\\CreateAssessmentValidation.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\FluentValidation\\AssessmentValidation\\CreateAssessmentValidation.cs",
               "RelativeToolTip": "BookReviewManager.Application\\FluentValidation\\AssessmentValidation\\CreateAssessmentValidation.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

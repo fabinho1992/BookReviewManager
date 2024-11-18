@@ -38,6 +38,12 @@ namespace BookReviewManager.Infrastructure.Repositories
                 .Take(paginacao.PageSize).ToListAsync();
         }
 
+        public async Task<List<Assessment>> GetAllReport()
+        {
+            return await _context.Assessments.Include(a => a.User)
+                .Include(a => a.Book).ToListAsync();
+        }
+
         public async Task<Assessment> GetByIdAsync(int id)
         {
             var assessment = await _context.Assessments.Include(a => a.User)

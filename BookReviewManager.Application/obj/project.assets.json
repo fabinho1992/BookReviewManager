@@ -46,6 +46,22 @@
           }
         }
       },
+      "FastReport.OpenSource.Web/2025.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FastReport.OpenSource.Web.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FastReport.OpenSource.Web.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "FluentValidation/11.5.1": {
         "type": "package",
         "compile": {
@@ -1257,6 +1273,23 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "FastReport.OpenSource.Web/2025.1.0": {
+      "sha512": "4HHfVBjAxFoQJWZPlJmWE7d5iRLAFJwsSe5J5ocPP4jwzgR5A+YhJxN7Q4gngqSthiBPpVe+vf735GKQnedXyg==",
+      "type": "package",
+      "path": "fastreport.opensource.web/2025.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "FastReport MIT license.md",
+        "fastreport.opensource.web.2025.1.0.nupkg.sha512",
+        "fastreport.opensource.web.nuspec",
+        "frlogo192.png",
+        "lib/net6.0-windows7.0/FastReport.OpenSource.Web.dll",
+        "lib/net6.0-windows7.0/FastReport.OpenSource.Web.xml",
+        "lib/net6.0/FastReport.OpenSource.Web.dll",
+        "lib/net6.0/FastReport.OpenSource.Web.xml"
       ]
     },
     "FluentValidation/11.5.1": {
@@ -3246,28 +3279,29 @@
     "net8.0": [
       "BookReviewManager.Domain >= 1.0.0",
       "BookReviewManager.Infrastructure >= 1.0.0",
+      "FastReport.OpenSource.Web >= 2025.1.0",
       "FluentValidation.AspNetCore >= 11.3.0",
       "MediatR >= 12.4.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adm\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\BookReviewManager.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\BookReviewManager.Application.csproj",
       "projectName": "BookReviewManager.Application",
-      "projectPath": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\BookReviewManager.Application.csproj",
-      "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-      "outputPath": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\BookReviewManager.Application.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3283,11 +3317,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\BookReviewManager.Domain.csproj": {
-              "projectPath": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\BookReviewManager.Domain.csproj"
+            "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\BookReviewManager.Domain.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\BookReviewManager.Domain.csproj"
             },
-            "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj": {
-              "projectPath": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj"
+            "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj"
             }
           }
         }
@@ -3307,6 +3341,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "FastReport.OpenSource.Web": {
+            "target": "Package",
+            "version": "[2025.1.0, )"
+          },
           "FluentValidation.AspNetCore": {
             "target": "Package",
             "version": "[11.3.0, )"

@@ -13,6 +13,7 @@ namespace BookReviewManager.Domain.IRepositories
         Task<List<Assessment>> GetAllAsync(ParametrosPaginacao parametrosPaginacao);
         Task<List<Assessment>> GetOfUserAsync(int id);
         Task<Assessment> GetByIdAsync(int id);
+        Task<Assessment> GetAllReport();
         Task Delete(Assessment assessment);
     }
 }
