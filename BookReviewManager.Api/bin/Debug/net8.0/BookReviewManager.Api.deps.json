@@ -11,8 +11,10 @@
           "BookReviewManager.Application": "1.0.0",
           "BookReviewManager.Extensions": "1.0.0",
           "BookReviewManager.Infrastructure": "1.0.0",
+          "Microsoft.CodeAnalysis.Common": "4.5.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.10",
-          "Swashbuckle.AspNetCore": "6.4.0"
+          "Swashbuckle.AspNetCore": "6.4.0",
+          "FastReport.Data.MsSql.Reference": "2025.1.0.0"
         },
         "runtime": {
           "BookReviewManager.Api.dll": {}
@@ -49,6 +51,54 @@
           "lib/netstandard2.0/Azure.Identity.dll": {
             "assemblyVersion": "1.10.3.0",
             "fileVersion": "1.1000.323.51804"
+          }
+        }
+      },
+      "FastReport.Compat/2025.1.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.CSharp": "4.5.0",
+          "Microsoft.CodeAnalysis.VisualBasic": "4.0.1",
+          "System.Drawing.Common": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/FastReport.Compat.dll": {
+            "assemblyVersion": "2025.1.0.0",
+            "fileVersion": "2025.1.0.0"
+          }
+        }
+      },
+      "FastReport.Data.MsSql/2025.1.0": {
+        "dependencies": {
+          "System.Data.SqlClient": "4.8.6"
+        }
+      },
+      "FastReport.OpenSource/2025.1.0": {
+        "dependencies": {
+          "FastReport.Compat": "2025.1.0"
+        },
+        "runtime": {
+          "lib/net6.0/FastReport.dll": {
+            "assemblyVersion": "2025.1.0.0",
+            "fileVersion": "2025.1.0.0"
+          }
+        }
+      },
+      "FastReport.OpenSource.Export.PdfSimple/2025.1.0": {
+        "dependencies": {
+          "FastReport.OpenSource": "2025.1.0"
+        },
+        "runtime": {
+          "lib/net6.0/FastReport.OpenSource.Export.PdfSimple.dll": {
+            "assemblyVersion": "2025.1.0.0",
+            "fileVersion": "2025.1.0.0"
+          }
+        }
+      },
+      "FastReport.OpenSource.Web/2025.1.0": {
+        "runtime": {
+          "lib/net6.0/FastReport.OpenSource.Web.dll": {
+            "assemblyVersion": "2025.1.0.0",
+            "fileVersion": "2025.1.0.0"
           }
         }
       },
@@ -352,6 +402,58 @@
             "locale": "zh-Hans"
           },
           "lib/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.VisualBasic/4.0.1": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.Common": "4.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.CodeAnalysis.VisualBasic.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.121.55815"
+          }
+        },
+        "resources": {
+          "lib/netcoreapp3.1/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netcoreapp3.1/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netcoreapp3.1/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netcoreapp3.1/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netcoreapp3.1/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "it"
+          },
+          "lib/netcoreapp3.1/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/netcoreapp3.1/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/netcoreapp3.1/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/netcoreapp3.1/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/netcoreapp3.1/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -739,6 +841,12 @@
           }
         }
       },
+      "Microsoft.Win32.Registry/4.7.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "6.0.0",
+          "System.Security.Principal.Windows": "5.0.0"
+        }
+      },
       "Microsoft.Win32.SystemEvents/6.0.0": {
         "runtime": {
           "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
@@ -782,6 +890,40 @@
           "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.2.22727"
+          }
+        }
+      },
+      "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+        "dependencies": {
+          "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x86.runtime.native.System.Data.SqlClient.sni": "4.4.0"
+        }
+      },
+      "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/sni.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/sni.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x86/native/sni.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
           }
         }
       },
@@ -905,6 +1047,33 @@
           "lib/net6.0/System.Configuration.ConfigurationManager.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.922.41905"
+          }
+        }
+      },
+      "System.Data.SqlClient/4.8.6": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "4.7.0",
+          "System.Security.Principal.Windows": "5.0.0",
+          "runtime.native.System.Data.SqlClient.sni": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "assemblyVersion": "4.6.1.6",
+            "fileVersion": "4.700.23.52603"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.6",
+            "fileVersion": "4.700.23.52603"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.6",
+            "fileVersion": "4.700.23.52603"
           }
         }
       },
@@ -1100,6 +1269,10 @@
         "dependencies": {
           "BookReviewManager.Domain": "1.0.0",
           "BookReviewManager.Infrastructure": "1.0.0",
+          "FastReport.Data.MsSql": "2025.1.0",
+          "FastReport.OpenSource": "2025.1.0",
+          "FastReport.OpenSource.Export.PdfSimple": "2025.1.0",
+          "FastReport.OpenSource.Web": "2025.1.0",
           "FluentValidation.AspNetCore": "11.3.0",
           "MediatR": "12.4.1"
         },
@@ -1147,6 +1320,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "FastReport.Data.MsSql.Reference/2025.1.0.0": {
+        "runtime": {
+          "FastReport.Data.MsSql.dll": {
+            "assemblyVersion": "2025.1.0.0",
+            "fileVersion": "2025.1.0.0"
+          }
+        }
       }
     }
   },
@@ -1169,6 +1350,41 @@
       "sha512": "sha512-l1Xm2MWOF2Mzcwuarlw8kWQXLZk3UeB55aQXVyjj23aBfDwOZ3gu5GP2kJ6KlmZeZv2TCzw7x4L3V36iNr3gww==",
       "path": "azure.identity/1.10.3",
       "hashPath": "azure.identity.1.10.3.nupkg.sha512"
+    },
+    "FastReport.Compat/2025.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+RQY3YjJn7sgutzrLX0I6haa/1n3ZzOy3Q9vdR+1ZD6ZGSeZUG+grosX/71NLdSGl3RNbiYYa3HPD31HEraD6Q==",
+      "path": "fastreport.compat/2025.1.0",
+      "hashPath": "fastreport.compat.2025.1.0.nupkg.sha512"
+    },
+    "FastReport.Data.MsSql/2025.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bQGN2uBa3KR+zlCXkAu97ji2ernEyfmOFaRvJyodfIW8wBl6Q7/nNpjUew0yIPsQfVBnAAZdsq43SupFVykdLQ==",
+      "path": "fastreport.data.mssql/2025.1.0",
+      "hashPath": "fastreport.data.mssql.2025.1.0.nupkg.sha512"
+    },
+    "FastReport.OpenSource/2025.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jV68OEJm4wHv1xok25solwL0Pyalul2NxnUplvoUOXUwOjscNqzVPM7KOemxBP4GqDQ4ZvARHTNs0wgXy1liGw==",
+      "path": "fastreport.opensource/2025.1.0",
+      "hashPath": "fastreport.opensource.2025.1.0.nupkg.sha512"
+    },
+    "FastReport.OpenSource.Export.PdfSimple/2025.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TtF6gEFjTqpMBxPmW2CwhAzTYvazkeOarDCLlP2+QtG33R9/5TsyYxZp7cTkyUNyRGpsRTYd+p9OFzyZtI1seA==",
+      "path": "fastreport.opensource.export.pdfsimple/2025.1.0",
+      "hashPath": "fastreport.opensource.export.pdfsimple.2025.1.0.nupkg.sha512"
+    },
+    "FastReport.OpenSource.Web/2025.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4HHfVBjAxFoQJWZPlJmWE7d5iRLAFJwsSe5J5ocPP4jwzgR5A+YhJxN7Q4gngqSthiBPpVe+vf735GKQnedXyg==",
+      "path": "fastreport.opensource.web/2025.1.0",
+      "hashPath": "fastreport.opensource.web.2025.1.0.nupkg.sha512"
     },
     "FluentValidation/11.5.1": {
       "type": "package",
@@ -1288,6 +1504,13 @@
       "sha512": "sha512-h74wTpmGOp4yS4hj+EvNzEiPgg/KVs2wmSfTZ81upJZOtPkJsVkgfsgtxxqmAeapjT/vLKfmYV0bS8n5MNVP+g==",
       "path": "microsoft.codeanalysis.csharp.workspaces/4.5.0",
       "hashPath": "microsoft.codeanalysis.csharp.workspaces.4.5.0.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.VisualBasic/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o67w8S4zO7tQvB0EQeeo7i5uJCT/CrLwnLUWkkbxU2aUsZPGuRd35diuqk7e+vwnfhu27AvNJsr+1Z6EUT+fDA==",
+      "path": "microsoft.codeanalysis.visualbasic/4.0.1",
+      "hashPath": "microsoft.codeanalysis.visualbasic.4.0.1.nupkg.sha512"
     },
     "Microsoft.CodeAnalysis.Workspaces.Common/4.5.0": {
       "type": "package",
@@ -1520,6 +1743,13 @@
       "path": "microsoft.sqlserver.server/1.0.0",
       "hashPath": "microsoft.sqlserver.server.1.0.0.nupkg.sha512"
     },
+    "Microsoft.Win32.Registry/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
+      "path": "microsoft.win32.registry/4.7.0",
+      "hashPath": "microsoft.win32.registry.4.7.0.nupkg.sha512"
+    },
     "Microsoft.Win32.SystemEvents/6.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1547,6 +1777,34 @@
       "sha512": "sha512-QYFyxhaABwmq3p/21VrZNYvCg3DaEoN/wUuw5nmfAf0X3HLjgupwhkEWdgfb9nvGAUIv3osmZoD3kKl4jxEmYQ==",
       "path": "newtonsoft.json.bson/1.0.2",
       "hashPath": "newtonsoft.json.bson.1.0.2.nupkg.sha512"
+    },
+    "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9kyFSIdN3T0qjDQ2R0HRXYIhS3l5psBzQi6qqhdLz+SzFyEy4sVxNOke+yyYv8Cu8rPER12c3RDjLT8wF3WBYQ==",
+      "path": "runtime.native.system.data.sqlclient.sni/4.7.0",
+      "hashPath": "runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512"
+    },
+    "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LbrynESTp3bm5O/+jGL8v0Qg5SJlTV08lpIpFesXjF6uGNMWqFnUQbYBJwZTeua6E/Y7FIM1C54Ey1btLWupdg==",
+      "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-38ugOfkYJqJoX9g6EYRlZB5U2ZJH51UP8ptxZgdpS07FgOEToV+lS11ouNK2PM12Pr6X/PpT5jK82G3DwH/SxQ==",
+      "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
+      "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.4.0": {
       "type": "package",
@@ -1638,6 +1896,13 @@
       "sha512": "sha512-jXw9MlUu/kRfEU0WyTptAVueupqIeE3/rl0EZDMlf8pcvJnitQ8HeVEp69rZdaStXwTV72boi/Bhw8lOeO+U2w==",
       "path": "system.configuration.configurationmanager/6.0.1",
       "hashPath": "system.configuration.configurationmanager.6.0.1.nupkg.sha512"
+    },
+    "System.Data.SqlClient/4.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2Ij/LCaTQRyAi5lAv7UUTV9R2FobC8xN9mE0fXBZohum/xLl8IZVmE98Rq5ugQHjCgTBRKqpXRb4ORulRdA6Ig==",
+      "path": "system.data.sqlclient/4.8.6",
+      "hashPath": "system.data.sqlclient.4.8.6.nupkg.sha512"
     },
     "System.Diagnostics.DiagnosticSource/6.0.1": {
       "type": "package",
@@ -1838,6 +2103,11 @@
     },
     "BookReviewManager.Infrastructure/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastReport.Data.MsSql.Reference/2025.1.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

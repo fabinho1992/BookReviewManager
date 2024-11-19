@@ -30,6 +30,9 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
+
+app.UseFastReport();
+
 app.MapControllers();
 
 app.Run();

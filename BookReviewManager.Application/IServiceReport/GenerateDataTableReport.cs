@@ -11,21 +11,21 @@ namespace BookReviewManager.Application.IServiceReport
 {
     public class GenerateDataTableReport : IGenerateDataTableReport
     {
-        public void DataTableReportDonors(IEnumerable<Assessment> assessments, WebReport webReport)
+        public void DataTableReportAssessment(IEnumerable<Assessment> assessments, WebReport webReport)
         {
             var assessmentDataTable = new DataTable();
 
             assessmentDataTable.Columns.Add("Note", typeof(int));
-            assessmentDataTable.Columns.Add("Assessment Date", typeof(string));
-            assessmentDataTable.Columns.Add("Quantity ml", typeof(string));
+            assessmentDataTable.Columns.Add("User Name", typeof(string));
+            assessmentDataTable.Columns.Add("Title Book", typeof(string));
 
 
-            foreach (var item in bloodStocks)
+            foreach (var item in assessments)
             {
-                donationsDataTable.Rows.Add(item.BloodType, item.FactorRh, item.QuantityMl);
+                assessmentDataTable.Rows.Add(item.Nota, item.User.Name, item.Book.Title);
             }
 
-            webReport.Report.RegisterData(donationsDataTable, "Blood Stock Report");
+            webReport.Report.RegisterData(assessmentDataTable, "Blood Stock Report");
         }
     }
 }

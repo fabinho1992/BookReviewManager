@@ -173,6 +173,10 @@ C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewMa
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\BookReviewManager.Api.pdb
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Azure.Core.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FastReport.Compat.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FastReport.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FastReport.OpenSource.Export.PdfSimple.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FastReport.OpenSource.Web.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FluentValidation.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
@@ -189,6 +193,7 @@ C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewMa
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
@@ -227,6 +232,7 @@ C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewMa
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\System.Data.SqlClient.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\System.Management.dll
@@ -274,6 +280,19 @@ C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewMa
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
@@ -294,6 +313,11 @@ C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewMa
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
@@ -304,6 +328,7 @@ C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewMa
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\BookReviewManager.Domain.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\BookReviewManager.Extensions.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\BookReviewManager.Infrastructure.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FastReport.Data.MsSql.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\BookReviewManager.Application.pdb
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\BookReviewManager.Extensions.pdb
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\BookReviewManager.Infrastructure.pdb

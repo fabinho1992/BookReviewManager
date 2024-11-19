@@ -11,6 +11,6 @@ namespace BookReviewManager.Application.IServiceReport
 {
     public interface IGenerateDataTableReport
     {
-        void DataTableReportDonors(IEnumerable<Assessment> assessments, WebReport webReport);
+        void DataTableReportAssessment(IEnumerable<Assessment> assessments, WebReport webReport);
     }
 }

@@ -1,0 +1,5 @@
+Consulta sql para relatório de avaliações
+
+select  b.Name, c.Title, a.Nota from Assessments a 
+inner join Users b on a.UserId =b.Id
+inner join Books c on a.BookId = c.Id; 

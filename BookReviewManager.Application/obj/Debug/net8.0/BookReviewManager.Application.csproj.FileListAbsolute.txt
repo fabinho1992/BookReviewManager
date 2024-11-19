@@ -21,6 +21,7 @@ C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewMa
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Application\bin\Debug\net8.0\BookReviewManager.Application.pdb
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Application\bin\Debug\net8.0\BookReviewManager.Domain.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Application\bin\Debug\net8.0\BookReviewManager.Infrastructure.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Application\bin\Debug\net8.0\FastReport.Data.MsSql.dll
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Application\bin\Debug\net8.0\BookReviewManager.Domain.pdb
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Application\bin\Debug\net8.0\BookReviewManager.Infrastructure.pdb
 C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Application\obj\Debug\net8.0\BookReviewManager.Application.csproj.AssemblyReference.cache

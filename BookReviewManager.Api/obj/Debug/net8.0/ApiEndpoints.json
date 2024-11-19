@@ -211,6 +211,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BookReviewManager.Api.Controllers.ReportsController",
+    "Method": "AssessmentsReport",
+    "RelativePath": "api/Reports",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BookReviewManager.Api.Controllers.UserController",
     "Method": "Create",
     "RelativePath": "api/User",

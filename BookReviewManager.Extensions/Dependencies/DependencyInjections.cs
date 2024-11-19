@@ -1,9 +1,11 @@
 ﻿using BookReviewManager.Application.FluentValidation.UserValidation;
+using BookReviewManager.Application.IServiceReport;
 using BookReviewManager.Domain.IRepositories;
 using BookReviewManager.Domain.IServices;
 using BookReviewManager.Infrastructure.DataContext;
 using BookReviewManager.Infrastructure.Repositories;
 using BookReviewManager.Infrastructure.Service;
+using FastReport.Data;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
@@ -39,11 +41,16 @@ namespace BookReviewManager.Extensions.Dependencies
             services.AddDbContext<BookManagerContext>(opt =>
                             opt.UseSqlServer(connectionString));
 
+            //FastReport
+            services.AddFastReport();
+            FastReport.Utils.RegisteredObjects.AddConnection(typeof(MsSqlDataConnection));
+
             //Injections Dependency
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IBookRepository, BookRepository>();
             services.AddScoped<IAssessmentRepository, AssessmentsRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IGenerateDataTableReport, GenerateDataTableReport>();
 
             services.Configure<KeyGoogloBooks>(configuration.GetSection("KeyGoogleBooksApi"));
             services.AddSingleton<string>(configuration["KeyGoogleBooksApi:KeyApi"]);
