@@ -74,8 +74,7 @@
               "RelativeToolTip": "BookReviewManager.Application\\Queries\\ReportsQueries\\AssessmentReportQueryHandler.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAkwBcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:41:22.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T22:41:22.109Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "BookReviewManager.Application\\IServiceReport\\IGenerateDataTableReport.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAkwA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:40:17.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T22:40:17.612Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "BookReviewManager.Application\\Queries\\ReportsQueries\\AssessmentReportQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:36:45.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T22:36:45.853Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "BookReviewManager.Api\\Controllers\\ApiGoogleBooksController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:19:45.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T22:19:45.141Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "BookReviewManager.Api\\Controllers\\ReportsController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:17:11.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T22:17:11.492Z"
             },
             {
               "$type": "Document",
@@ -152,21 +147,19 @@
               "RelativeToolTip": "BookReviewManager.Api\\Controllers\\BookController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:17:01.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T22:17:01.472Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "BookReviewManager.Api",
+              "Title": "BookReviewManager.Api.csproj",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\BookReviewManager.Api.csproj",
               "RelativeDocumentMoniker": "BookReviewManager.Api\\BookReviewManager.Api.csproj",
               "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\BookReviewManager.Api.csproj",
               "RelativeToolTip": "BookReviewManager.Api\\BookReviewManager.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-18T22:11:36.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T22:11:36.867Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAD4vzIAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:07:19.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T22:07:19.488Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T17:34:09.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T17:34:09.48Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T17:33:32.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T17:33:32.143Z"
             },
             {
               "$type": "Document",
@@ -217,8 +207,7 @@
               "RelativeToolTip": "BookReviewManager.Domain\\Entities\\Assessment.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAIBQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T17:25:22.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T17:25:22.051Z"
             },
             {
               "$type": "Document",
@@ -230,8 +219,7 @@
               "RelativeToolTip": "BookReviewManager.Application\\IServiceReport\\GenerateDataTableReport.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T17:25:15.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T17:25:15.831Z"
             }
           ]
         }
