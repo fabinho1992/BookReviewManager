@@ -40,6 +40,8 @@ namespace BookReviewManager.Extensions.Dependencies
             var connectionString = configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<BookManagerContext>(opt =>
                             opt.UseSqlServer(connectionString));
+            services.AddDbContext<BookManagerContextIdentity>(
+                opt => opt.UseSqlServer(connectionString));
 
             //FastReport
             services.AddFastReport();

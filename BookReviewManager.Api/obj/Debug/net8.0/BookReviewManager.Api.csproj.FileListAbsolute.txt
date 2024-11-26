@@ -380,3 +380,9 @@ C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\FastReport.Data.MsSql.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
