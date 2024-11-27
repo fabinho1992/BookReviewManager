@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookReviewManager.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb38e829bfbeadbc4bb8990590df60edca9ba3ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7b8b8bd819dd3ca26b2da3b7d8b1712c806c5ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookReviewManager.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookReviewManager.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
