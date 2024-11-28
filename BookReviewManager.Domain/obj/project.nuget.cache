@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tGu0Yv67sgs=",
+  "dgSpecHash": "aXa5JWF4+DQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\ProjetosMentoria\\Gerenciamento_Avaliacao_livros\\BookReviewManager\\BookReviewManager.Domain\\BookReviewManager.Domain.csproj",
+  "projectFilePath": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\BookReviewManager.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
