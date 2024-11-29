@@ -43,6 +43,11 @@ namespace BookReviewManager.Api.Controllers
             return CreatedAtAction(nameof(GetById), new { id = result.Data }, result);
         }
 
+        /// <summary>
+        /// Esse metodo realiza a paginação de uma lista de livros, retornando uma lista paginada
+        /// </summary>
+        /// <param name="paginacao">Esse parametro irá trazer a lista com o numero de livros por pagina que o usuario quiser</param>
+        /// <returns>Retorna uma lista de livros</returns>
         [HttpGet]
         public async Task<IActionResult> GetAll([FromQuery] ParametrosPaginacao paginacao)
         {

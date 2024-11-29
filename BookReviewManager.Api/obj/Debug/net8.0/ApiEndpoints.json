@@ -90,6 +90,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BookReviewManager.Api.Controllers.AuthController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BookReviewManager.Application.Commands.CommandsAuth.CommandAddUser.CreateUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BookReviewManager.Api.Controllers.BookController",
     "Method": "Create",
     "RelativePath": "api/Book",

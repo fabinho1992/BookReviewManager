@@ -12,7 +12,7 @@ namespace BookReviewManager.Infrastructure.DataContext
 {
     public class BookManagerContextIdentity : IdentityDbContext<IdentityUser>
     {
-        public BookManagerContextIdentity(DbContextOptions options) : base(options)
+        public BookManagerContextIdentity(DbContextOptions<BookManagerContextIdentity> options) : base(options)
         {
         }
     }

@@ -4,6 +4,10 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	  <!-- GenerateDocumentationFile, abilita o uso de comentarios Xml-->
+	  <GenerateDocumentationFile>true</GenerateDocumentationFile>
+	  <!-- NoWarn desabilita o aviso que obriga aplicar os comentarios XML de todas as controllers-->
+	  <NoWarn>$(NoWarn);1591</NoWarn>
     <UserSecretsId>68e2e0b6-b052-4b78-b781-15a1b7e573fa</UserSecretsId>
   </PropertyGroup>
 

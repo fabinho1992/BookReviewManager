@@ -11,7 +11,8 @@ namespace BookReviewManager.Infrastructure.DataContext
 {
     public class BookManagerContext : DbContext
     {
-        public BookManagerContext(DbContextOptions options) : base(options)
+        public BookManagerContext(DbContextOptions<BookManagerContext> options)
+            : base(options)
         {
         }
 
