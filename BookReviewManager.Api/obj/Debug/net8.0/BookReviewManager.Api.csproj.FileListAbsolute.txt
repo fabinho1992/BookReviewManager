@@ -394,3 +394,5 @@ C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\BookReviewManager.Api.xml
 C:\Users\Usuario\Desktop\Cursos de Programação\ProjetosMentoria\Gerenciamento_Avaliacao_livros\BookReviewManager\BookReviewManager.Api\obj\Debug\net8.0\BookReviewManager.Api.xml
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\bin\Debug\net8.0\BookReviewManager.Api.xml
+C:\AulasAluraBackEnd\ProjetosMentoria\ApiGerenciadorAvaliacaoLivros\BookReviewManager\BookReviewManager.Api\obj\Debug\net8.0\BookReviewManager.Api.xml

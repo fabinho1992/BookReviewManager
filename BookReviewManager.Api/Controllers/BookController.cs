@@ -7,6 +7,7 @@ using BookReviewManager.Application.Queries.BookQueries.BookQuerieList;
 using BookReviewManager.Domain.Entities;
 using BookReviewManager.Domain.IRepositories;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -48,6 +49,7 @@ namespace BookReviewManager.Api.Controllers
         /// </summary>
         /// <param name="paginacao">Esse parametro irá trazer a lista com o numero de livros por pagina que o usuario quiser</param>
         /// <returns>Retorna uma lista de livros</returns>
+        [Authorize]
         [HttpGet]
         public async Task<IActionResult> GetAll([FromQuery] ParametrosPaginacao paginacao)
         {

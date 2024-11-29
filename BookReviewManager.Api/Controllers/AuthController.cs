@@ -1,4 +1,6 @@
-﻿using BookReviewManager.Application.Commands.CommandsAuth.CommandAddUser;
+﻿using BookReviewManager.Application.Commands.CommandsAuth.CommandAddRole;
+using BookReviewManager.Application.Commands.CommandsAuth.CommandAddUser;
+using BookReviewManager.Application.Commands.CommandsAuth.CommandLogin;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -16,8 +18,42 @@ namespace BookReviewManager.Api.Controllers
             _mediator = mediator;
         }
 
-        [HttpPost]
+        [HttpPost("Register User")]
         public async Task<IActionResult> CreateUser(CreateUserCommand command)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var result = await _mediator.Send(command);
+            if (!result.IsSuccess)
+            {
+                return BadRequest(result.Message);
+            }
+
+            return Ok(result);
+        }
+
+        [HttpPost("Login User")]
+        public async Task<IActionResult> Login(LoginCommand command)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var result = await _mediator.Send(command);
+            if (!result.IsSuccess)
+            {
+                return BadRequest(result.Message);
+            }
+
+            return Ok(result);
+        }
+
+        [HttpPost("To add Role")]
+        public async Task<IActionResult> CreateRole(AddRoleCommand command)
         {
             if (!ModelState.IsValid)
             {

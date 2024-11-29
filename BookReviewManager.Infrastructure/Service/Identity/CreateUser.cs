@@ -13,6 +13,11 @@ namespace BookReviewManager.Infrastructure.Service.Identity
     {
         private readonly UserManager<IdentityUser> _userManager;
 
+        public CreateUser(UserManager<IdentityUser> userManager)
+        {
+            _userManager = userManager;
+        }
+
         public async Task<ResponseIdentityCreate> CreateUserAsync(RegisterUser registerUser)
         {
             var usuarioExiste = await _userManager.FindByNameAsync(registerUser.UserName!);//consulto se o nome passado exite no banco
