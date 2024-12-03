@@ -91,6 +91,22 @@
   },
   {
     "ContainingType": "BookReviewManager.Api.Controllers.AuthController",
+    "Method": "CreateRole",
+    "RelativePath": "api/Auth/Created Role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BookReviewManager.Application.Commands.CommandsAuth.CommandCreateRole.CreateRoleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookReviewManager.Api.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/Login User",
     "HttpMethod": "POST",
@@ -123,7 +139,7 @@
   },
   {
     "ContainingType": "BookReviewManager.Api.Controllers.AuthController",
-    "Method": "CreateRole",
+    "Method": "AddRole",
     "RelativePath": "api/Auth/To add Role",
     "HttpMethod": "POST",
     "IsController": true,

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.infrastructure\\service\\identity\\addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\service\\identity\\addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.infrastructure\\service\\identity\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\service\\identity\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{659A5B88-6108-4DFB-B2EA-4349F928A7BC}|BookReviewManager.Extensions\\BookReviewManager.Extensions.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.extensions\\dependencies\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{659A5B88-6108-4DFB-B2EA-4349F928A7BC}|BookReviewManager.Extensions\\BookReviewManager.Extensions.csproj|solutionrelative:bookreviewmanager.extensions\\dependencies\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|solutionrelative:bookreviewmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\fluentvalidation\\authvalidation\\createrolevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\fluentvalidation\\authvalidation\\createrolevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|solutionrelative:bookreviewmanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsauth\\commandcreaterole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsauth\\commandcreaterole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsauth\\commandaddrole\\addrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +35,24 @@
       "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsauth\\commandadduser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsauth\\commandcreaterole\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsauth\\commandcreaterole\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsauth\\commandaddrole\\addrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsauth\\commandaddrole\\addrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.infrastructure\\service\\identity\\addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\service\\identity\\addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsauth\\commandadduser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsauth\\commandadduser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E8BEA3-D28C-427E-BD81-5C6656DE4FE7}|BookReviewManager.Api\\BookReviewManager.Api.csproj|solutionrelative:bookreviewmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.infrastructure\\service\\identity\\createrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\service\\identity\\createrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.infrastructure\\service\\identity\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED2BD751-0AC5-4793-87F9-05292862D634}|BookReviewManager.Infrastructure\\BookReviewManager.Infrastructure.csproj|solutionrelative:bookreviewmanager.infrastructure\\service\\identity\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.domain\\modelsautentication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsauth\\commandlogin\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsauth\\commandlogin\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.application\\commands\\commandsauth\\commandadduser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7CC50B0-73CB-40D6-8D59-6301E52F2186}|BookReviewManager.Application\\BookReviewManager.Application.csproj|solutionrelative:bookreviewmanager.application\\commands\\commandsauth\\commandadduser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBB0482F-D0B8-4CC7-8A32-5E8592E30EEB}|BookReviewManager.Domain\\BookReviewManager.Domain.csproj|c:\\aulasalurabackend\\projetosmentoria\\apigerenciadoravaliacaolivros\\bookreviewmanager\\bookreviewmanager.domain\\iservices\\autentication\\icreateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -156,11 +168,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CreateRoleValidation.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\FluentValidation\\AuthValidation\\CreateRoleValidation.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\FluentValidation\\AuthValidation\\CreateRoleValidation.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\FluentValidation\\AuthValidation\\CreateRoleValidation.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\FluentValidation\\AuthValidation\\CreateRoleValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:23:31.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateRoleCommandHandler.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandCreateRole\\CreateRoleCommandHandler.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandCreateRole\\CreateRoleCommandHandler.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandCreateRole\\CreateRoleCommandHandler.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandCreateRole\\CreateRoleCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:13:39.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateRoleCommand.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandCreateRole\\CreateRoleCommand.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandCreateRole\\CreateRoleCommand.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandCreateRole\\CreateRoleCommand.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandCreateRole\\CreateRoleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:44:45.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BookReviewManager.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:19:35.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AddRoleCommandHandler.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddRole\\AddRoleCommandHandler.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddRole\\AddRoleCommandHandler.cs",
@@ -173,150 +237,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddRoleCommand.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddRole\\AddRoleCommand.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddRole\\AddRoleCommand.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddRole\\AddRoleCommand.cs",
-              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddRole\\AddRoleCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T12:32:11.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddUser\\CreateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddUser\\CreateUserCommandHandler.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddUser\\CreateUserCommandHandler.cs",
-              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddUser\\CreateUserCommandHandler.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T18:02:07.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateRole.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Service\\Identity\\CreateRole.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Service\\Identity\\CreateRole.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Service\\Identity\\CreateRole.cs",
-              "RelativeToolTip": "BookReviewManager.Infrastructure\\Service\\Identity\\CreateRole.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T14:59:57.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterUser.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\RegisterUser.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Domain\\ModelsAutentication\\RegisterUser.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\RegisterUser.cs",
-              "RelativeToolTip": "BookReviewManager.Domain\\ModelsAutentication\\RegisterUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:55:30.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\Login.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Domain\\ModelsAutentication\\Login.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\Login.cs",
-              "RelativeToolTip": "BookReviewManager.Domain\\ModelsAutentication\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:53:51.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "BookReviewManager.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T18:19:35.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Program.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Api\\Program.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Program.cs",
-              "RelativeToolTip": "BookReviewManager.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:21:11.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "DependencyInjections.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
               "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
               "RelativeToolTip": "BookReviewManager.Extensions\\Dependencies\\DependencyInjections.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFgAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T22:07:19.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ResponseIdentityCreate.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\ResponseIdentityCreate.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Domain\\ModelsAutentication\\ResponseIdentityCreate.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\ResponseIdentityCreate.cs",
-              "RelativeToolTip": "BookReviewManager.Domain\\ModelsAutentication\\ResponseIdentityCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T00:14:21.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ResponseLogin.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\ResponseLogin.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Domain\\ModelsAutentication\\ResponseLogin.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\ResponseLogin.cs",
-              "RelativeToolTip": "BookReviewManager.Domain\\ModelsAutentication\\ResponseLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T10:14:56.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Api\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\BookController.cs",
-              "RelativeToolTip": "BookReviewManager.Api\\Controllers\\BookController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAwwEIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T22:17:01.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "CreateUser.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Service\\Identity\\CreateUser.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Service\\Identity\\CreateUser.cs",
@@ -329,46 +263,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "AddRole.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Service\\Identity\\AddRole.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Service\\Identity\\AddRole.cs",
               "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Service\\Identity\\AddRole.cs",
               "RelativeToolTip": "BookReviewManager.Infrastructure\\Service\\Identity\\AddRole.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T14:26:20.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginCommand.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommand.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommand.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommand.cs",
-              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAApAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AddRoleCommand.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddRole\\AddRoleCommand.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddRole\\AddRoleCommand.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddRole\\AddRoleCommand.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddRole\\AddRoleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:19:37.282Z",
+              "WhenOpened": "2024-11-29T12:32:11.174Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Api\\Program.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Program.cs",
+              "RelativeToolTip": "BookReviewManager.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:21:11.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\Login.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Domain\\ModelsAutentication\\Login.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\Login.cs",
+              "RelativeToolTip": "BookReviewManager.Domain\\ModelsAutentication\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:53:51.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "LoginCommandHandler.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommandHandler.cs",
-              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommandHandler.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommandHandler.cs",
-              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Domain\\ModelsAutentication\\RegisterUser.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\RegisterUser.cs",
+              "RelativeToolTip": "BookReviewManager.Domain\\ModelsAutentication\\RegisterUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:25:29.271Z",
+              "WhenOpened": "2024-11-23T09:55:30.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:02:07.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
+              "Title": "CreateRole.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Service\\Identity\\CreateRole.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Service\\Identity\\CreateRole.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Service\\Identity\\CreateRole.cs",
+              "RelativeToolTip": "BookReviewManager.Infrastructure\\Service\\Identity\\CreateRole.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:59:57.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CreateUserCommand.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddUser\\CreateUserCommand.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandAddUser\\CreateUserCommand.cs",
@@ -382,6 +364,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "ResponseIdentityCreate.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\ResponseIdentityCreate.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Domain\\ModelsAutentication\\ResponseIdentityCreate.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\ResponseIdentityCreate.cs",
+              "RelativeToolTip": "BookReviewManager.Domain\\ModelsAutentication\\ResponseIdentityCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:14:21.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResponseLogin.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\ResponseLogin.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Domain\\ModelsAutentication\\ResponseLogin.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\ModelsAutentication\\ResponseLogin.cs",
+              "RelativeToolTip": "BookReviewManager.Domain\\ModelsAutentication\\ResponseLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:14:56.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Api\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookReviewManager.Api\\Controllers\\BookController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:17:01.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommand.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommand.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:19:37.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommandHandler.cs",
+              "RelativeToolTip": "BookReviewManager.Application\\Commands\\CommandsAuth\\CommandLogin\\LoginCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:25:29.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "LoginUser.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Service\\Identity\\LoginUser.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Service\\Identity\\LoginUser.cs",
@@ -389,12 +431,11 @@
               "RelativeToolTip": "BookReviewManager.Infrastructure\\Service\\Identity\\LoginUser.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAC4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T00:30:10.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T00:30:10.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ICreateUser.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\IServices\\Autentication\\ICreateUser.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Domain\\IServices\\Autentication\\ICreateUser.cs",
@@ -402,12 +443,11 @@
               "RelativeToolTip": "BookReviewManager.Domain\\IServices\\Autentication\\ICreateUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:39:57.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T09:39:57.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\68e2e0b6-b052-4b78-b781-15a1b7e573fa\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\Usuario\\AppData\\Roaming\\Microsoft\\UserSecrets\\68e2e0b6-b052-4b78-b781-15a1b7e573fa\\secrets.json",
@@ -419,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "BookManagerContext.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\DataContext\\BookManagerContext.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\DataContext\\BookManagerContext.cs",
@@ -431,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "BookManagerContextIdentity.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\DataContext\\BookManagerContextIdentity.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\DataContext\\BookManagerContextIdentity.cs",
@@ -443,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "IAddRole.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\IServices\\Autentication\\IAddRole.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Domain\\IServices\\Autentication\\IAddRole.cs",
@@ -455,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "ILoginUser.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\IServices\\Autentication\\ILoginUser.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Domain\\IServices\\Autentication\\ILoginUser.cs",
@@ -467,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "ICreateRole.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\IServices\\Autentication\\ICreateRole.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Domain\\IServices\\Autentication\\ICreateRole.cs",
@@ -479,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\IdentityToken\\ITokenService.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\IdentityToken\\ITokenService.cs",
@@ -491,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\IdentityToken\\TokenService.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\IdentityToken\\TokenService.cs",
@@ -503,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\adm\\AppData\\Roaming\\Microsoft\\UserSecrets\\68e2e0b6-b052-4b78-b781-15a1b7e573fa\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\adm\\AppData\\Roaming\\Microsoft\\UserSecrets\\68e2e0b6-b052-4b78-b781-15a1b7e573fa\\secrets.json",
@@ -515,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "IGenerateDataTableReport.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\IServiceReport\\IGenerateDataTableReport.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\IServiceReport\\IGenerateDataTableReport.cs",
@@ -527,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "AssessmentReportQuery.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\ReportsQueries\\AssessmentReportQuery.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\ReportsQueries\\AssessmentReportQuery.cs",
@@ -539,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "ApiGoogleBooksController.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\ApiGoogleBooksController.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Api\\Controllers\\ApiGoogleBooksController.cs",
@@ -551,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "ReportsController.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Api\\Controllers\\ReportsController.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Api\\Controllers\\ReportsController.cs",
@@ -563,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "AssessmentReportQueryHandler.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\Queries\\ReportsQueries\\AssessmentReportQueryHandler.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\Queries\\ReportsQueries\\AssessmentReportQueryHandler.cs",
@@ -575,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "AssessmentsRepository.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Infrastructure\\Repositories\\AssessmentsRepository.cs",
@@ -587,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "IAssessmentRepository.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Domain\\IRepositories\\IAssessmentRepository.cs",
@@ -599,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "Assessment.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Domain\\Entities\\Assessment.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Domain\\Entities\\Assessment.cs",
@@ -611,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "GenerateDataTableReport.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetosMentoria\\ApiGerenciadorAvaliacaoLivros\\BookReviewManager\\BookReviewManager.Application\\IServiceReport\\GenerateDataTableReport.cs",
               "RelativeDocumentMoniker": "BookReviewManager.Application\\IServiceReport\\GenerateDataTableReport.cs",
