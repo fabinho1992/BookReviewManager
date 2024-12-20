@@ -33,8 +33,8 @@ namespace BookReviewManager.Application.FluentValidation.BookValidation
                 .MaximumLength(13)
                 .WithMessage("Must contain a maximum of 13 characters");
 
-            RuleFor(b => b.YearPublication).NotNull().NotEmpty()
-                .WithMessage("YearOfPublication canot be null");
+            //RuleFor(b => b.YearPublication).NotNull().NotEmpty()
+            //    .WithMessage("YearOfPublication canot be null");
 
             RuleFor(b => b.Publisher).NotEmpty().NotNull()
                 .WithMessage("Publisher cannot be null")

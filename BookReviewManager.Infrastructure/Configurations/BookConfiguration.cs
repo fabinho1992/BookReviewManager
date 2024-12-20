@@ -33,7 +33,8 @@ namespace BookReviewManager.Infrastructure.Configurations
                 .HasColumnType("decimal(18,2)");
             builder.Property(b => b.GenerBook).HasConversion<string>()
                 .IsRequired();
-            builder.Property(b => b.Cover);
+            builder.Property(b => b.Cover)
+                .IsRequired(false);
             builder.Property(b => b.YearPublication)
                 .IsRequired();
             builder.HasMany(b => b.Assessments)

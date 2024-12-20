@@ -49,7 +49,7 @@ namespace BookReviewManager.Api.Controllers
         /// </summary>
         /// <param name="paginacao">Esse parametro irá trazer a lista com o numero de livros por pagina que o usuario quiser</param>
         /// <returns>Retorna uma lista de livros</returns>
-        [Authorize]
+        //[Authorize]
         [HttpGet]
         public async Task<IActionResult> GetAll([FromQuery] ParametrosPaginacao paginacao)
         {

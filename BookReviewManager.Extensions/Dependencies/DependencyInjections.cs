@@ -121,6 +121,17 @@ namespace BookReviewManager.Extensions.Dependencies
             services.AddMediatR(config =>
                 config.RegisterServicesFromAssembly(myHandlers));
 
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(
+                    builder =>
+                    {
+                        builder.WithOrigins("http://localhost:3001")
+                               .AllowAnyHeader()
+                               .AllowAnyMethod();
+                    });
+            });
+
             return services;
         }
     }

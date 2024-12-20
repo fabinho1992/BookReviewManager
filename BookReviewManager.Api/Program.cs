@@ -74,6 +74,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseRouting();
+
+app.UseCors();
+
+
 app.UseMiddleware(typeof(ErroMiddleware));
 
 app.UseHttpsRedirection();

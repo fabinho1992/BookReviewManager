@@ -10,7 +10,8 @@ namespace BookReviewManager.Application.Dtos.ViewModels.BookViewsModel
 {
     public class BookResponseAll
     {
-        public BookResponseAll(int id, string title, string description, string author, GenerBook generBook, int yearPublication, int numberPages)
+        public BookResponseAll(int id, string title, string description, string author, 
+            GenerBook generBook, int yearPublication, int numberPages, string isbn, string publisher, byte[] cover)
         {
             Id = id;
             Title = title;
@@ -19,6 +20,9 @@ namespace BookReviewManager.Application.Dtos.ViewModels.BookViewsModel
             GenerBook = generBook;
             YearPublication = yearPublication;
             NumberPages = numberPages;
+            ISBN = isbn;
+            Publisher = publisher;
+            Cover = cover;
         }
 
         public int Id { get; private set; }
@@ -28,6 +32,9 @@ namespace BookReviewManager.Application.Dtos.ViewModels.BookViewsModel
         public GenerBook GenerBook { get; private set; }
         public int YearPublication { get; private set; }
         public int NumberPages { get; private set; }
-        
+        public string ISBN { get; private set; }
+        public string Publisher { get; private set; }
+        public byte[] Cover { get; private set; }
+
     }
 }

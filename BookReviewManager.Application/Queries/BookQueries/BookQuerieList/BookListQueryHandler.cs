@@ -33,7 +33,8 @@ namespace BookReviewManager.Application.Queries.BookQueries.BookQuerieList
             foreach (var item in books) 
             {
                 var book = new BookResponseAll(item.Id, item.Title, item.Description, 
-                    item.Author, item.GenerBook, item.YearPublication, item.NumberPages);
+                    item.Author, item.GenerBook, item.YearPublication,
+                    item.NumberPages, item.ISBN, item.Publisher, item.Cover);
                 bookResponse.Add(book);
             }
 
